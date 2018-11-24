@@ -20,7 +20,7 @@ a:visited {
 }
 
 a:hover {
-  background-color: pink;
+  background-color: salmon;
   color: black;
 }
 
@@ -96,7 +96,7 @@ a:active {
 .noteheader__button {
   display: inline-block;
   padding: 1em;
-  border: 1px solid #CCC;
+  border: 1px solid #8E8E8E;
   text-align: center;
 }
 
